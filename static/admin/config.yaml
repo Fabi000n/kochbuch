@@ -2,7 +2,3 @@ backend:
   name: github
   repo: Fabi000n/kochbuch
   branch: main
-  auth_type: implicit
-  app_id: DEINE-AUTH0-CLIENT-ID
-  base_url: https://dev-nbogfy53m3f5046q.us.auth0.com
-  auth_endpoint: authorize
