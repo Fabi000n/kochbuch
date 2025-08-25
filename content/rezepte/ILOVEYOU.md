@@ -1,8 +1,8 @@
 ---
 title: "I Love you"
 date: 2025-08-24
-categories: ["Hello"]
-draft: true
+draft: false
+type: docs
 ---
 Zutaten:  
 - Du
