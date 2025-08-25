@@ -1,0 +1,68 @@
+backend:
+  name: github
+  repo: Fabi000n/kochbuch
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/uploads"
+
+local_backend: true
+
+collections:
+  - name: "posts"
+    label: "Blog"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    format: "yaml"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+
+      # Bis zu 2 Bilder (optional)
+      - label: "Bilder"
+        name: "bilder"
+        widget: "list"
+        required: false
+        summary: "{{fields.image}}"
+        max: 2
+        field:
+          label: "Bild"
+          name: "image"
+          widget: "image"
+
+      # Zeiten (optional, in Minuten)
+      - label: "Vorbereitungszeit (Minuten)"
+        name: "vorbereitungszeit"
+        widget: "number"
+        required: false
+        value_type: "int"
+        min: 0
+        step: 5
+
+      - label: "Zubereitungszeit (Minuten)"
+        name: "zubereitungszeit"
+        widget: "number"
+        required: false
+        value_type: "int"
+        min: 0
+        step: 5
+
+      # Tags (Mehrfachauswahl)
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - Vegetarisch
+          - Vegan
+          - Fleisch
+          - Fisch
+          - Dessert
+          - Schnell
+          - Glutenfrei
+          - Laktosefrei
+          - Klassiker
+
+      - { label: "Entwurf", name: "draft", widget: "boolean", default: false }
+      - { label: "Inhalt", name: "body", widget: "markdown" }

@@ -8,12 +8,6 @@
     <loc>http://localhost:1313/rezepte/</loc>
     <lastmod>2025-08-24T18:09:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rezepte/test/</loc>
-    <lastmod>2025-08-24T18:09:41+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rezepte/spaghetti-carbonara/</loc>
-    <lastmod>2025-08-24T17:41:43+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
