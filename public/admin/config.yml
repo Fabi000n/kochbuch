@@ -11,10 +11,10 @@ local_backend: true
 collections:
   - name: "posts"
     label: "Blog"
-    folder: "content/posts"
+    folder: "content/rezepte"
     create: true
     slug: "{{slug}}"
-    format: "yaml"
+    format: "md"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
 

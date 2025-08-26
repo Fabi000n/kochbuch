@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello on My New Hugo Site</title>
+    <title>Hello on Rezepte</title>
     <link>http://localhost:1313/categories/hello/</link>
-    <description>Recent content in Hello on My New Hugo Site</description>
+    <description>Recent content in Hello on Rezepte</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Aug 2025 00:00:00 +0000</lastBuildDate>
