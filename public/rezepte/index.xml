@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rezeptes on Unser Kochbuch &lt;3</title><link>http://localhost:1313/rezepte/</link><description>Recent content in Rezeptes on Unser Kochbuch &lt;3</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 24 Aug 2025 18:09:41 +0200</lastBuildDate><atom:link href="http://localhost:1313/rezepte/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>http://localhost:1313/rezepte/test/</link><pubDate>Sun, 24 Aug 2025 18:09:41 +0200</pubDate><guid>http://localhost:1313/rezepte/test/</guid><description/></item><item><title>I Love you</title><link>http://localhost:1313/rezepte/iloveyou/</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/rezepte/iloveyou/</guid><description>&lt;p>Zutaten:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rezeptes on Unser Kochbuch &lt;3</title><link>http://localhost:1313/rezepte/</link><description>Recent content in Rezeptes on Unser Kochbuch &lt;3</description><generator>Hugo</generator><language>de</language><lastBuildDate>Sun, 24 Aug 2025 18:09:41 +0200</lastBuildDate><atom:link href="http://localhost:1313/rezepte/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>http://localhost:1313/rezepte/test/</link><pubDate>Sun, 24 Aug 2025 18:09:41 +0200</pubDate><guid>http://localhost:1313/rezepte/test/</guid><description/></item><item><title>Spaghetti Carbonara</title><link>http://localhost:1313/rezepte/spaghetti-carbonara/</link><pubDate>Sun, 24 Aug 2025 17:41:43 +0200</pubDate><guid>http://localhost:1313/rezepte/spaghetti-carbonara/</guid><description>&lt;hr>
+&lt;h2 id="draft-false">title: &amp;ldquo;Spaghetti Carbonara&amp;rdquo;
+date: 2025-08-24
+categories: [&amp;ldquo;Pasta&amp;rdquo;, &amp;ldquo;Schnell&amp;rdquo;]
+draft: false&lt;/h2>
+&lt;p>Zutaten:&lt;/p>
+&lt;ul>
+&lt;li>200g Spaghetti&lt;/li>
+&lt;li>100g Speck&lt;/li>
+&lt;/ul>
+&lt;p>Zubereitung:
+Wasser aufsetzen, Nudeln kochen, Speck anbraten…&lt;/p></description></item><item><title>I Love you</title><link>http://localhost:1313/rezepte/iloveyou/</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/rezepte/iloveyou/</guid><description>&lt;p>Zutaten:&lt;/p>
 &lt;ul>
 &lt;li>Du&lt;/li>
 &lt;li>Ich&lt;/li>
