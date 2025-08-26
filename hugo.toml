@@ -2,3 +2,6 @@ baseURL = 'https://studentenkochbuch.netlify.app/'
 languageCode = 'de'
 title = 'Unser Kochbuch <3'
 theme = "cuisine-book"
+
+[params]
+  customCSS = ["css/custom.css"]

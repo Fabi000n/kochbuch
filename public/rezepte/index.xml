@@ -1,18 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rezeptes on Unser Kochbuch &lt;3</title><link>http://localhost:1313/rezepte/</link><description>Recent content in Rezeptes on Unser Kochbuch &lt;3</description><generator>Hugo</generator><language>de</language><lastBuildDate>Sun, 24 Aug 2025 18:09:41 +0200</lastBuildDate><atom:link href="http://localhost:1313/rezepte/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>http://localhost:1313/rezepte/test/</link><pubDate>Sun, 24 Aug 2025 18:09:41 +0200</pubDate><guid>http://localhost:1313/rezepte/test/</guid><description/></item><item><title>Spaghetti Carbonara</title><link>http://localhost:1313/rezepte/spaghetti-carbonara/</link><pubDate>Sun, 24 Aug 2025 17:41:43 +0200</pubDate><guid>http://localhost:1313/rezepte/spaghetti-carbonara/</guid><description>&lt;hr>
-&lt;h2 id="draft-false">title: &amp;ldquo;Spaghetti Carbonara&amp;rdquo;
-date: 2025-08-24
-categories: [&amp;ldquo;Pasta&amp;rdquo;, &amp;ldquo;Schnell&amp;rdquo;]
-draft: false&lt;/h2>
-&lt;p>Zutaten:&lt;/p>
-&lt;ul>
-&lt;li>200g Spaghetti&lt;/li>
-&lt;li>100g Speck&lt;/li>
-&lt;/ul>
-&lt;p>Zubereitung:
-Wasser aufsetzen, Nudeln kochen, Speck anbraten…&lt;/p></description></item><item><title>I Love you</title><link>http://localhost:1313/rezepte/iloveyou/</link><pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/rezepte/iloveyou/</guid><description>&lt;p>Zutaten:&lt;/p>
-&lt;ul>
-&lt;li>Du&lt;/li>
-&lt;li>Ich&lt;/li>
-&lt;/ul>
-&lt;p>Zubereitung:&lt;br>
-4,5h in den Zug setzen, aussteigen und im Bett kuscheln&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rezeptes on Unser Kochbuch &lt;3</title>
+    <link>http://localhost:1313/rezepte/</link>
+    <description>Recent content in Rezeptes on Unser Kochbuch &lt;3</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 24 Aug 2025 18:09:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/rezepte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/rezepte/test/</link>
+      <pubDate>Sun, 24 Aug 2025 18:09:41 +0200</pubDate>
+      <guid>http://localhost:1313/rezepte/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spaghetti Carbonara</title>
+      <link>http://localhost:1313/rezepte/spaghetti-carbonara/</link>
+      <pubDate>Sun, 24 Aug 2025 17:41:43 +0200</pubDate>
+      <guid>http://localhost:1313/rezepte/spaghetti-carbonara/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Spaghetti Carbonara&amp;rdquo;&#xA;date: 2025-08-24&#xA;categories: [&amp;ldquo;Pasta&amp;rdquo;, &amp;ldquo;Schnell&amp;rdquo;]&#xA;draft: false&lt;/h2&gt;&#xA;&lt;p&gt;Zutaten:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200g Spaghetti&lt;/li&gt;&#xA;&lt;li&gt;100g Speck&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Zubereitung:&#xA;Wasser aufsetzen, Nudeln kochen, Speck anbraten…&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Love you</title>
+      <link>http://localhost:1313/rezepte/iloveyou/</link>
+      <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rezepte/iloveyou/</guid>
+      <description>&lt;p&gt;Zutaten:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Du&lt;/li&gt;&#xA;&lt;li&gt;Ich&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Zubereitung:&lt;br&gt;&#xA;4,5h in den Zug setzen, aussteigen und im Bett kuscheln&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
